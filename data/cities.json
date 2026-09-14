@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "karachi",
+    "name": "Karachi",
+    "province": "Sindh",
+    "lat": 24.8607,
+    "lng": 67.0011
+  },
+  {
+    "slug": "lahore",
+    "name": "Lahore",
+    "province": "Punjab",
+    "lat": 31.5204,
+    "lng": 74.3587
+  },
+  {
+    "slug": "islamabad",
+    "name": "Islamabad",
+    "province": "Islamabad Capital Territory",
+    "lat": 33.6844,
+    "lng": 73.0479
+  },
+  {
+    "slug": "rawalpindi",
+    "name": "Rawalpindi",
+    "province": "Punjab",
+    "lat": 33.5651,
+    "lng": 73.0169
+  },
+  {
+    "slug": "peshawar",
+    "name": "Peshawar",
+    "province": "Khyber Pakhtunkhwa",
+    "lat": 34.0151,
+    "lng": 71.5249
+  },
+  {
+    "slug": "multan",
+    "name": "Multan",
+    "province": "Punjab",
+    "lat": 30.1575,
+    "lng": 71.5249
+  },
+  {
+    "slug": "jaranwala",
+    "name": "Jaranwala",
+    "province": "Punjab",
+    "lat": 31.334,
+    "lng": 73.435
+  }
+]

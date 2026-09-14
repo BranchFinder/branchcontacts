@@ -1,0 +1,12 @@
+[
+  { "slug": "hbl", "name": "HBL", "fullName": "Habib Bank Limited", "category": "banks", "helpline": "111-111-425", "website": "https://www.hbl.com", "blurb": "Pakistan's largest bank with branches in every district." },
+  { "slug": "ubl", "name": "UBL", "fullName": "United Bank Limited", "category": "banks", "helpline": "111-825-888", "website": "https://www.ubldigital.com", "blurb": "One of the big five banks, strong in urban centres." },
+  { "slug": "meezan-bank", "name": "Meezan Bank", "fullName": "Meezan Bank Limited", "category": "banks", "helpline": "111-331-331", "website": "https://www.meezanbank.com", "blurb": "The largest Islamic bank in Pakistan." },
+  { "slug": "kfc", "name": "KFC", "fullName": "KFC Pakistan", "category": "restaurants", "helpline": "111-532-532", "website": "https://www.kfcpakistan.com", "blurb": "Fried chicken outlets with delivery and dine-in." },
+  { "slug": "mcdonalds", "name": "McDonald's", "fullName": "McDonald's Pakistan", "category": "restaurants", "helpline": "111-244-622", "website": "https://www.mcdonalds.com.pk", "blurb": "Burgers, drive-thru and 24-hour outlets in major cities." },
+  { "slug": "aga-khan-hospital", "name": "Aga Khan Hospital", "fullName": "The Aga Khan University Hospital", "category": "hospitals", "helpline": "021-111-911-911", "website": "https://hospitals.aku.edu", "blurb": "Tertiary care hospital with lab collection points nationwide." },
+  { "slug": "shaukat-khanum", "name": "Shaukat Khanum", "fullName": "Shaukat Khanum Memorial Cancer Hospital", "category": "hospitals", "helpline": "042-3590-5000", "website": "https://shaukatkhanum.org.pk", "blurb": "Cancer hospitals and diagnostic centres." },
+  { "slug": "tcs", "name": "TCS", "fullName": "TCS Express", "category": "couriers", "helpline": "111-123-456", "website": "https://www.tcsexpress.com", "blurb": "Courier and logistics with express centres in most towns." },
+  { "slug": "leopards", "name": "Leopards Courier", "fullName": "Leopards Courier Services", "category": "couriers", "helpline": "111-300-786", "website": "https://www.leopardscourier.com", "blurb": "Nationwide courier network with cash-on-delivery services." },
+  { "slug": "servaid", "name": "Servaid Pharmacy", "fullName": "Servaid Pharmacy", "category": "pharmacies", "helpline": "111-737-824", "website": "https://www.servaid.com", "blurb": "24-hour pharmacy chain in Punjab." }
+]

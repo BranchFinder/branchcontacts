@@ -1,0 +1,7 @@
+[
+  { "slug": "banks", "name": "Banks", "blurb": "Branches, ATMs and branch codes" },
+  { "slug": "restaurants", "name": "Restaurants", "blurb": "Fast food and dine-in outlets" },
+  { "slug": "hospitals", "name": "Hospitals", "blurb": "Emergency, OPD and labs" },
+  { "slug": "couriers", "name": "Couriers", "blurb": "Parcel drop-off and pickup points" },
+  { "slug": "pharmacies", "name": "Pharmacies", "blurb": "Medical stores and chains" }
+]

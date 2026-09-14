@@ -1,0 +1,2090 @@
+[
+  {
+    "slug": "clifton-branch",
+    "brand": "hbl",
+    "city": "karachi",
+    "name": "HBL Clifton Branch",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 001",
+    "branchCode": "1007",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 24.8714,
+    "lng": 67.04087,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal-branch",
+    "brand": "hbl",
+    "city": "karachi",
+    "name": "HBL Gulshan-e-Iqbal Branch",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 002",
+    "branchCode": "1014",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 24.86431,
+    "lng": 66.99084,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-branch",
+    "brand": "hbl",
+    "city": "karachi",
+    "name": "HBL Saddar Branch",
+    "address": "Saddar, Karachi",
+    "phone": "021 0000 003",
+    "branchCode": "1021",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 24.88302,
+    "lng": 67.00901,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg-branch",
+    "brand": "hbl",
+    "city": "lahore",
+    "name": "HBL Gulberg Branch",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 004",
+    "branchCode": "1028",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 31.53249,
+    "lng": 74.37894,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5-branch",
+    "brand": "hbl",
+    "city": "lahore",
+    "name": "HBL DHA Phase 5 Branch",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 005",
+    "branchCode": "1035",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 31.52285,
+    "lng": 74.3557,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "model-town-branch",
+    "brand": "hbl",
+    "city": "lahore",
+    "name": "HBL Model Town Branch",
+    "address": "Model Town, Lahore",
+    "phone": "042 0000 006",
+    "branchCode": "1042",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 31.53611,
+    "lng": 74.34646,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area-branch",
+    "brand": "hbl",
+    "city": "islamabad",
+    "name": "HBL Blue Area Branch",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 007",
+    "branchCode": "1049",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.6693,
+    "lng": 73.03407,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz-branch",
+    "brand": "hbl",
+    "city": "islamabad",
+    "name": "HBL F-10 Markaz Branch",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 008",
+    "branchCode": "1056",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.69633,
+    "lng": 73.07774,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "g-11-markaz-branch",
+    "brand": "hbl",
+    "city": "islamabad",
+    "name": "HBL G-11 Markaz Branch",
+    "address": "G-11 Markaz, Islamabad",
+    "phone": "051 0000 009",
+    "branchCode": "1063",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.71986,
+    "lng": 73.02912,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-branch",
+    "brand": "hbl",
+    "city": "rawalpindi",
+    "name": "HBL Saddar Branch",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 010",
+    "branchCode": "1070",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.59788,
+    "lng": 72.99598,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4-branch",
+    "brand": "hbl",
+    "city": "rawalpindi",
+    "name": "HBL Bahria Town Phase 4 Branch",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 011",
+    "branchCode": "1077",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.58329,
+    "lng": 73.05344,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "commercial-market-branch",
+    "brand": "hbl",
+    "city": "rawalpindi",
+    "name": "HBL Commercial Market Branch",
+    "address": "Commercial Market, Rawalpindi",
+    "phone": "051 0000 012",
+    "branchCode": "1084",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.57423,
+    "lng": 72.99173,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road-branch",
+    "brand": "hbl",
+    "city": "peshawar",
+    "name": "HBL University Road Branch",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 013",
+    "branchCode": "1091",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.99628,
+    "lng": 71.50168,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad-branch",
+    "brand": "hbl",
+    "city": "peshawar",
+    "name": "HBL Hayatabad Branch",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 014",
+    "branchCode": "1098",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 34.03304,
+    "lng": 71.564,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-road-branch",
+    "brand": "hbl",
+    "city": "peshawar",
+    "name": "HBL Saddar Road Branch",
+    "address": "Saddar Road, Peshawar",
+    "phone": "091 0000 015",
+    "branchCode": "1105",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 34.04418,
+    "lng": 71.55285,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt-branch",
+    "brand": "hbl",
+    "city": "multan",
+    "name": "HBL Cantt Branch",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 016",
+    "branchCode": "1112",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 30.18632,
+    "lng": 71.50051,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road-branch",
+    "brand": "hbl",
+    "city": "multan",
+    "name": "HBL Bosan Road Branch",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 017",
+    "branchCode": "1119",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 30.1342,
+    "lng": 71.51507,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulgasht-colony-branch",
+    "brand": "hbl",
+    "city": "multan",
+    "name": "HBL Gulgasht Colony Branch",
+    "address": "Gulgasht Colony, Multan",
+    "phone": "061 0000 018",
+    "branchCode": "1126",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 30.19437,
+    "lng": 71.53364,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton-branch",
+    "brand": "ubl",
+    "city": "karachi",
+    "name": "UBL Clifton Branch",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 019",
+    "branchCode": "1133",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 24.87634,
+    "lng": 67.02242,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal-branch",
+    "brand": "ubl",
+    "city": "karachi",
+    "name": "UBL Gulshan-e-Iqbal Branch",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 020",
+    "branchCode": "1140",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 24.87545,
+    "lng": 67.02818,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-branch",
+    "brand": "ubl",
+    "city": "karachi",
+    "name": "UBL Saddar Branch",
+    "address": "Saddar, Karachi",
+    "phone": "021 0000 021",
+    "branchCode": "1147",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 24.85933,
+    "lng": 66.99296,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg-branch",
+    "brand": "ubl",
+    "city": "lahore",
+    "name": "UBL Gulberg Branch",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 022",
+    "branchCode": "1154",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 31.48451,
+    "lng": 74.38149,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5-branch",
+    "brand": "ubl",
+    "city": "lahore",
+    "name": "UBL DHA Phase 5 Branch",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 023",
+    "branchCode": "1161",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 31.53837,
+    "lng": 74.32839,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "model-town-branch",
+    "brand": "ubl",
+    "city": "lahore",
+    "name": "UBL Model Town Branch",
+    "address": "Model Town, Lahore",
+    "phone": "042 0000 024",
+    "branchCode": "1168",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 31.50284,
+    "lng": 74.31911,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area-branch",
+    "brand": "ubl",
+    "city": "islamabad",
+    "name": "UBL Blue Area Branch",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 025",
+    "branchCode": "1175",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.70617,
+    "lng": 73.08293,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz-branch",
+    "brand": "ubl",
+    "city": "islamabad",
+    "name": "UBL F-10 Markaz Branch",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 026",
+    "branchCode": "1182",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.70138,
+    "lng": 73.06857,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "g-11-markaz-branch",
+    "brand": "ubl",
+    "city": "islamabad",
+    "name": "UBL G-11 Markaz Branch",
+    "address": "G-11 Markaz, Islamabad",
+    "phone": "051 0000 027",
+    "branchCode": "1189",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.65716,
+    "lng": 73.02775,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-branch",
+    "brand": "ubl",
+    "city": "rawalpindi",
+    "name": "UBL Saddar Branch",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 028",
+    "branchCode": "1196",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.5501,
+    "lng": 72.98333,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4-branch",
+    "brand": "ubl",
+    "city": "rawalpindi",
+    "name": "UBL Bahria Town Phase 4 Branch",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 029",
+    "branchCode": "1203",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.56864,
+    "lng": 73.00494,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "commercial-market-branch",
+    "brand": "ubl",
+    "city": "rawalpindi",
+    "name": "UBL Commercial Market Branch",
+    "address": "Commercial Market, Rawalpindi",
+    "phone": "051 0000 030",
+    "branchCode": "1210",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.59389,
+    "lng": 73.03601,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road-branch",
+    "brand": "ubl",
+    "city": "peshawar",
+    "name": "UBL University Road Branch",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 031",
+    "branchCode": "1217",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.9875,
+    "lng": 71.50754,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad-branch",
+    "brand": "ubl",
+    "city": "peshawar",
+    "name": "UBL Hayatabad Branch",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 032",
+    "branchCode": "1224",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.99434,
+    "lng": 71.53852,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-road-branch",
+    "brand": "ubl",
+    "city": "peshawar",
+    "name": "UBL Saddar Road Branch",
+    "address": "Saddar Road, Peshawar",
+    "phone": "091 0000 033",
+    "branchCode": "1231",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 34.00716,
+    "lng": 71.53973,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt-branch",
+    "brand": "ubl",
+    "city": "multan",
+    "name": "UBL Cantt Branch",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 034",
+    "branchCode": "1238",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 30.11906,
+    "lng": 71.5415,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road-branch",
+    "brand": "ubl",
+    "city": "multan",
+    "name": "UBL Bosan Road Branch",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 035",
+    "branchCode": "1245",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 30.11755,
+    "lng": 71.49556,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulgasht-colony-branch",
+    "brand": "ubl",
+    "city": "multan",
+    "name": "UBL Gulgasht Colony Branch",
+    "address": "Gulgasht Colony, Multan",
+    "phone": "061 0000 036",
+    "branchCode": "1252",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 30.18001,
+    "lng": 71.53241,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton-branch",
+    "brand": "meezan-bank",
+    "city": "karachi",
+    "name": "Meezan Bank Clifton Branch",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 037",
+    "branchCode": "1259",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 24.88731,
+    "lng": 67.02216,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal-branch",
+    "brand": "meezan-bank",
+    "city": "karachi",
+    "name": "Meezan Bank Gulshan-e-Iqbal Branch",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 038",
+    "branchCode": "1266",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 24.87513,
+    "lng": 67.02021,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-branch",
+    "brand": "meezan-bank",
+    "city": "karachi",
+    "name": "Meezan Bank Saddar Branch",
+    "address": "Saddar, Karachi",
+    "phone": "021 0000 039",
+    "branchCode": "1273",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 24.84302,
+    "lng": 67.01684,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg-branch",
+    "brand": "meezan-bank",
+    "city": "lahore",
+    "name": "Meezan Bank Gulberg Branch",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 040",
+    "branchCode": "1280",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 31.5014,
+    "lng": 74.31879,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5-branch",
+    "brand": "meezan-bank",
+    "city": "lahore",
+    "name": "Meezan Bank DHA Phase 5 Branch",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 041",
+    "branchCode": "1287",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 31.5242,
+    "lng": 74.32245,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "model-town-branch",
+    "brand": "meezan-bank",
+    "city": "lahore",
+    "name": "Meezan Bank Model Town Branch",
+    "address": "Model Town, Lahore",
+    "phone": "042 0000 042",
+    "branchCode": "1294",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 31.51862,
+    "lng": 74.35661,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area-branch",
+    "brand": "meezan-bank",
+    "city": "islamabad",
+    "name": "Meezan Bank Blue Area Branch",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 043",
+    "branchCode": "1301",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.69667,
+    "lng": 73.0504,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz-branch",
+    "brand": "meezan-bank",
+    "city": "islamabad",
+    "name": "Meezan Bank F-10 Markaz Branch",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 044",
+    "branchCode": "1308",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.66183,
+    "lng": 73.01385,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "g-11-markaz-branch",
+    "brand": "meezan-bank",
+    "city": "islamabad",
+    "name": "Meezan Bank G-11 Markaz Branch",
+    "address": "G-11 Markaz, Islamabad",
+    "phone": "051 0000 045",
+    "branchCode": "1315",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.6939,
+    "lng": 73.0564,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-branch",
+    "brand": "meezan-bank",
+    "city": "rawalpindi",
+    "name": "Meezan Bank Saddar Branch",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 046",
+    "branchCode": "1322",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.57201,
+    "lng": 73.0025,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4-branch",
+    "brand": "meezan-bank",
+    "city": "rawalpindi",
+    "name": "Meezan Bank Bahria Town Phase 4 Branch",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 047",
+    "branchCode": "1329",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.56876,
+    "lng": 73.03113,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "commercial-market-branch",
+    "brand": "meezan-bank",
+    "city": "rawalpindi",
+    "name": "Meezan Bank Commercial Market Branch",
+    "address": "Commercial Market, Rawalpindi",
+    "phone": "051 0000 048",
+    "branchCode": "1336",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 33.58013,
+    "lng": 72.98249,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road-branch",
+    "brand": "meezan-bank",
+    "city": "peshawar",
+    "name": "Meezan Bank University Road Branch",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 049",
+    "branchCode": "1343",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 33.97743,
+    "lng": 71.52542,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad-branch",
+    "brand": "meezan-bank",
+    "city": "peshawar",
+    "name": "Meezan Bank Hayatabad Branch",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 050",
+    "branchCode": "1350",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 34.02513,
+    "lng": 71.50627,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar-road-branch",
+    "brand": "meezan-bank",
+    "city": "peshawar",
+    "name": "Meezan Bank Saddar Road Branch",
+    "address": "Saddar Road, Peshawar",
+    "phone": "091 0000 051",
+    "branchCode": "1357",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 34.04555,
+    "lng": 71.54955,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt-branch",
+    "brand": "meezan-bank",
+    "city": "multan",
+    "name": "Meezan Bank Cantt Branch",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 052",
+    "branchCode": "1364",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Locker facility"
+    ],
+    "lat": 30.18417,
+    "lng": 71.49226,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road-branch",
+    "brand": "meezan-bank",
+    "city": "multan",
+    "name": "Meezan Bank Bosan Road Branch",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 053",
+    "branchCode": "1371",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 30.16681,
+    "lng": 71.50286,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulgasht-colony-branch",
+    "brand": "meezan-bank",
+    "city": "multan",
+    "name": "Meezan Bank Gulgasht Colony Branch",
+    "address": "Gulgasht Colony, Multan",
+    "phone": "061 0000 054",
+    "branchCode": "1378",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Cash deposit machine",
+      "Priority banking"
+    ],
+    "lat": 30.18187,
+    "lng": 71.54504,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton",
+    "brand": "kfc",
+    "city": "karachi",
+    "name": "KFC Clifton",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 055",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 24.83703,
+    "lng": 66.9771,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal",
+    "brand": "kfc",
+    "city": "karachi",
+    "name": "KFC Gulshan-e-Iqbal",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 056",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 24.88684,
+    "lng": 66.99406,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg",
+    "brand": "kfc",
+    "city": "lahore",
+    "name": "KFC Gulberg",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 057",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 31.55026,
+    "lng": 74.38964,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5",
+    "brand": "kfc",
+    "city": "lahore",
+    "name": "KFC DHA Phase 5",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 058",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 31.50161,
+    "lng": 74.36334,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area",
+    "brand": "kfc",
+    "city": "islamabad",
+    "name": "KFC Blue Area",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 059",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 33.7093,
+    "lng": 73.06099,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz",
+    "brand": "kfc",
+    "city": "islamabad",
+    "name": "KFC F-10 Markaz",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 060",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 33.67488,
+    "lng": 73.0767,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar",
+    "brand": "kfc",
+    "city": "rawalpindi",
+    "name": "KFC Saddar",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 061",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 33.57567,
+    "lng": 73.01215,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4",
+    "brand": "kfc",
+    "city": "rawalpindi",
+    "name": "KFC Bahria Town Phase 4",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 062",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 33.55717,
+    "lng": 73.05648,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road",
+    "brand": "kfc",
+    "city": "peshawar",
+    "name": "KFC University Road",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 063",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 34.01302,
+    "lng": 71.5473,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad",
+    "brand": "kfc",
+    "city": "peshawar",
+    "name": "KFC Hayatabad",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 064",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 34.03808,
+    "lng": 71.56117,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt",
+    "brand": "kfc",
+    "city": "multan",
+    "name": "KFC Cantt",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 065",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 30.14077,
+    "lng": 71.54847,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road",
+    "brand": "kfc",
+    "city": "multan",
+    "name": "KFC Bosan Road",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 066",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 30.11987,
+    "lng": 71.53962,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton",
+    "brand": "mcdonalds",
+    "city": "karachi",
+    "name": "McDonald's Clifton",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 067",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 24.85794,
+    "lng": 66.96239,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal",
+    "brand": "mcdonalds",
+    "city": "karachi",
+    "name": "McDonald's Gulshan-e-Iqbal",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 068",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 24.87299,
+    "lng": 66.96551,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg",
+    "brand": "mcdonalds",
+    "city": "lahore",
+    "name": "McDonald's Gulberg",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 069",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 31.51416,
+    "lng": 74.38577,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5",
+    "brand": "mcdonalds",
+    "city": "lahore",
+    "name": "McDonald's DHA Phase 5",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 070",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 31.52591,
+    "lng": 74.38835,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area",
+    "brand": "mcdonalds",
+    "city": "islamabad",
+    "name": "McDonald's Blue Area",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 071",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 33.64547,
+    "lng": 73.0688,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz",
+    "brand": "mcdonalds",
+    "city": "islamabad",
+    "name": "McDonald's F-10 Markaz",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 072",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 33.68783,
+    "lng": 73.01441,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar",
+    "brand": "mcdonalds",
+    "city": "rawalpindi",
+    "name": "McDonald's Saddar",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 073",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 33.58627,
+    "lng": 73.02691,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4",
+    "brand": "mcdonalds",
+    "city": "rawalpindi",
+    "name": "McDonald's Bahria Town Phase 4",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 074",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 33.55261,
+    "lng": 72.98077,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road",
+    "brand": "mcdonalds",
+    "city": "peshawar",
+    "name": "McDonald's University Road",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 075",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 34.03812,
+    "lng": 71.55665,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad",
+    "brand": "mcdonalds",
+    "city": "peshawar",
+    "name": "McDonald's Hayatabad",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 076",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 33.97924,
+    "lng": 71.50394,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt",
+    "brand": "mcdonalds",
+    "city": "multan",
+    "name": "McDonald's Cantt",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 077",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Drive-thru"
+    ],
+    "lat": 30.17109,
+    "lng": 71.56265,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road",
+    "brand": "mcdonalds",
+    "city": "multan",
+    "name": "McDonald's Bosan Road",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 078",
+    "branchCode": null,
+    "hours": "Daily 11:00–02:00",
+    "features": [
+      "Delivery",
+      "Dine-in",
+      "Family seating"
+    ],
+    "lat": 30.15195,
+    "lng": 71.56056,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton",
+    "brand": "aga-khan-hospital",
+    "city": "karachi",
+    "name": "Aga Khan Hospital Clifton",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 079",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Emergency",
+      "Pharmacy",
+      "Lab"
+    ],
+    "lat": 24.82758,
+    "lng": 67.00365,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg",
+    "brand": "aga-khan-hospital",
+    "city": "lahore",
+    "name": "Aga Khan Hospital Gulberg",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 080",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Emergency",
+      "Pharmacy",
+      "Lab"
+    ],
+    "lat": 31.5546,
+    "lng": 74.3934,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton",
+    "brand": "shaukat-khanum",
+    "city": "karachi",
+    "name": "Shaukat Khanum Clifton",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 081",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Emergency",
+      "Pharmacy",
+      "Lab"
+    ],
+    "lat": 24.86474,
+    "lng": 66.9761,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg",
+    "brand": "shaukat-khanum",
+    "city": "lahore",
+    "name": "Shaukat Khanum Gulberg",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 082",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Emergency",
+      "Pharmacy",
+      "Lab"
+    ],
+    "lat": 31.51018,
+    "lng": 74.35532,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton",
+    "brand": "tcs",
+    "city": "karachi",
+    "name": "TCS Clifton",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 083",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 24.8554,
+    "lng": 67.03806,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal",
+    "brand": "tcs",
+    "city": "karachi",
+    "name": "TCS Gulshan-e-Iqbal",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 084",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 24.88751,
+    "lng": 66.99754,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg",
+    "brand": "tcs",
+    "city": "lahore",
+    "name": "TCS Gulberg",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 085",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 31.52212,
+    "lng": 74.39818,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5",
+    "brand": "tcs",
+    "city": "lahore",
+    "name": "TCS DHA Phase 5",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 086",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 31.5196,
+    "lng": 74.33967,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area",
+    "brand": "tcs",
+    "city": "islamabad",
+    "name": "TCS Blue Area",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 087",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.65872,
+    "lng": 73.01531,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz",
+    "brand": "tcs",
+    "city": "islamabad",
+    "name": "TCS F-10 Markaz",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 088",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.70135,
+    "lng": 73.06101,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar",
+    "brand": "tcs",
+    "city": "rawalpindi",
+    "name": "TCS Saddar",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 089",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.5955,
+    "lng": 72.98153,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4",
+    "brand": "tcs",
+    "city": "rawalpindi",
+    "name": "TCS Bahria Town Phase 4",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 090",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.55323,
+    "lng": 73.00026,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road",
+    "brand": "tcs",
+    "city": "peshawar",
+    "name": "TCS University Road",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 091",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 34.01139,
+    "lng": 71.50038,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad",
+    "brand": "tcs",
+    "city": "peshawar",
+    "name": "TCS Hayatabad",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 092",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.98166,
+    "lng": 71.55552,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt",
+    "brand": "tcs",
+    "city": "multan",
+    "name": "TCS Cantt",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 093",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 30.13486,
+    "lng": 71.55674,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road",
+    "brand": "tcs",
+    "city": "multan",
+    "name": "TCS Bosan Road",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 094",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 30.1722,
+    "lng": 71.55678,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton",
+    "brand": "leopards",
+    "city": "karachi",
+    "name": "Leopards Courier Clifton",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 095",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 24.88506,
+    "lng": 67.02608,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal",
+    "brand": "leopards",
+    "city": "karachi",
+    "name": "Leopards Courier Gulshan-e-Iqbal",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 096",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 24.86226,
+    "lng": 67.03853,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg",
+    "brand": "leopards",
+    "city": "lahore",
+    "name": "Leopards Courier Gulberg",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 097",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 31.52809,
+    "lng": 74.38104,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5",
+    "brand": "leopards",
+    "city": "lahore",
+    "name": "Leopards Courier DHA Phase 5",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 098",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 31.5588,
+    "lng": 74.35086,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area",
+    "brand": "leopards",
+    "city": "islamabad",
+    "name": "Leopards Courier Blue Area",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 099",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.68486,
+    "lng": 73.06479,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz",
+    "brand": "leopards",
+    "city": "islamabad",
+    "name": "Leopards Courier F-10 Markaz",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 100",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.69746,
+    "lng": 73.01258,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar",
+    "brand": "leopards",
+    "city": "rawalpindi",
+    "name": "Leopards Courier Saddar",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 101",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.56842,
+    "lng": 73.02032,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4",
+    "brand": "leopards",
+    "city": "rawalpindi",
+    "name": "Leopards Courier Bahria Town Phase 4",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 102",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 33.56476,
+    "lng": 72.99392,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road",
+    "brand": "leopards",
+    "city": "peshawar",
+    "name": "Leopards Courier University Road",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 103",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 34.03548,
+    "lng": 71.53602,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad",
+    "brand": "leopards",
+    "city": "peshawar",
+    "name": "Leopards Courier Hayatabad",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 104",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 34.00596,
+    "lng": 71.52798,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt",
+    "brand": "leopards",
+    "city": "multan",
+    "name": "Leopards Courier Cantt",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 105",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 30.13208,
+    "lng": 71.49245,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road",
+    "brand": "leopards",
+    "city": "multan",
+    "name": "Leopards Courier Bosan Road",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 106",
+    "branchCode": null,
+    "hours": "Mon–Sat 9:00–21:00",
+    "features": [
+      "Drop-off",
+      "COD pickup"
+    ],
+    "lat": 30.12639,
+    "lng": 71.51499,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "clifton",
+    "brand": "servaid",
+    "city": "karachi",
+    "name": "Servaid Pharmacy Clifton",
+    "address": "Clifton, Karachi",
+    "phone": "021 0000 107",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 24.85417,
+    "lng": 66.97752,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulshan-e-iqbal",
+    "brand": "servaid",
+    "city": "karachi",
+    "name": "Servaid Pharmacy Gulshan-e-Iqbal",
+    "address": "Gulshan-e-Iqbal, Karachi",
+    "phone": "021 0000 108",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 24.85691,
+    "lng": 66.98305,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "gulberg",
+    "brand": "servaid",
+    "city": "lahore",
+    "name": "Servaid Pharmacy Gulberg",
+    "address": "Gulberg, Lahore",
+    "phone": "042 0000 109",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 31.53498,
+    "lng": 74.3501,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "dha-phase-5",
+    "brand": "servaid",
+    "city": "lahore",
+    "name": "Servaid Pharmacy DHA Phase 5",
+    "address": "DHA Phase 5, Lahore",
+    "phone": "042 0000 110",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 31.53625,
+    "lng": 74.33818,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "blue-area",
+    "brand": "servaid",
+    "city": "islamabad",
+    "name": "Servaid Pharmacy Blue Area",
+    "address": "Blue Area, Islamabad",
+    "phone": "051 0000 111",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 33.6976,
+    "lng": 73.05594,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "f-10-markaz",
+    "brand": "servaid",
+    "city": "islamabad",
+    "name": "Servaid Pharmacy F-10 Markaz",
+    "address": "F-10 Markaz, Islamabad",
+    "phone": "051 0000 112",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 33.7115,
+    "lng": 73.0849,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "saddar",
+    "brand": "servaid",
+    "city": "rawalpindi",
+    "name": "Servaid Pharmacy Saddar",
+    "address": "Saddar, Rawalpindi",
+    "phone": "051 0000 113",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 33.56808,
+    "lng": 73.03668,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bahria-town-phase-4",
+    "brand": "servaid",
+    "city": "rawalpindi",
+    "name": "Servaid Pharmacy Bahria Town Phase 4",
+    "address": "Bahria Town Phase 4, Rawalpindi",
+    "phone": "051 0000 114",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 33.53612,
+    "lng": 73.04848,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "university-road",
+    "brand": "servaid",
+    "city": "peshawar",
+    "name": "Servaid Pharmacy University Road",
+    "address": "University Road, Peshawar",
+    "phone": "091 0000 115",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 33.99152,
+    "lng": 71.48969,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "hayatabad",
+    "brand": "servaid",
+    "city": "peshawar",
+    "name": "Servaid Pharmacy Hayatabad",
+    "address": "Hayatabad, Peshawar",
+    "phone": "091 0000 116",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 33.97586,
+    "lng": 71.52185,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "cantt",
+    "brand": "servaid",
+    "city": "multan",
+    "name": "Servaid Pharmacy Cantt",
+    "address": "Cantt, Multan",
+    "phone": "061 0000 117",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 30.17148,
+    "lng": 71.49396,
+    "updated": "2026-09-01"
+  },
+  {
+    "slug": "bosan-road",
+    "brand": "servaid",
+    "city": "multan",
+    "name": "Servaid Pharmacy Bosan Road",
+    "address": "Bosan Road, Multan",
+    "phone": "061 0000 118",
+    "branchCode": null,
+    "hours": "Open 24 hours",
+    "features": [
+      "Home delivery",
+      "Prescription refill"
+    ],
+    "lat": 30.17571,
+    "lng": 71.55864,
+    "updated": "2026-09-01"
+  }
+]
