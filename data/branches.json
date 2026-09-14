@@ -1,5 +1,25 @@
 [
   {
+    "slug": "meezan-bank-shorkot-cantt-branch",
+    "brand": "meezan-bank",
+    "city": "shorkot",
+    "category": "banks",
+    "name": "Meezan Bank Shorkot Cantt Branch",
+    "address": "Shaheen Housing, Rafiqui Chowk, Near Asghar Medical Care, Shorkot Cantonment, Tehsil Shorkot, District Jhang.",
+    "phone": "0474 751301",
+    "contactNumber": null,
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "2737",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM Locker"
+    ],
+    "lat": 30.792638,
+    "lng": 72.236523,
+    "updated": "2026-09-14"
+  },
+  {
     "slug": "meezan-bank-ayub-medical-complex-branch",
     "brand": "meezan-bank",
     "city": "abbottabad",
@@ -8,7 +28,7 @@
     "address": "Ayub Medical Complex MirPur Branch Abbottabad",
     "phone": "099 2414056",
     "contactNumber": null,
-    "whatsapp": "+92+9221111331331",
+    "whatsapp": "+9221111331331",
     "email": null,
     "branchCode": "1503",
     "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
