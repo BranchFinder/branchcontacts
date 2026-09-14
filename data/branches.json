@@ -1,5 +1,25 @@
 [
   {
+    "slug": "meezan-bank-abbottabad-branch",
+    "brand": "meezan-bank",
+    "city": "abbottabad",
+    "category": "banks",
+    "name": "Meezan Bank Abbottabad Branch",
+    "address": "Plot No. 843-846, Manshera Road, Abbottabad",
+    "phone": "992 3447013",
+    "contactNumber": null,
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "1501",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM"
+    ],
+    "lat": 34.185797,
+    "lng": 73.232245,
+    "updated": "2026-09-14"
+  },
+  {
     "slug": "meezan-bank-jaranwala-branch",
     "brand": "meezan-bank",
     "city": "jaranwala",
