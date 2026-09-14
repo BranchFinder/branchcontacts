@@ -1,5 +1,25 @@
 [
   {
+    "slug": "meezan-bank-jaranwala-branch",
+    "brand": "meezan-bank",
+    "city": "jaranwala",
+    "category": "banks",
+    "name": "meezan bank jaranwala branch",
+    "address": "hasan road jaranwala",
+    "phone": "111331331",
+    "contactNumber": "3256905789",
+    "whatsapp": "+923256905789",
+    "email": "info@meezanbank.com",
+    "branchCode": "9842",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM"
+    ],
+    "lat": 31.335616,
+    "lng": 73.419098,
+    "updated": "2026-09-14"
+  },
+  {
     "slug": "clifton-branch",
     "brand": "hbl",
     "city": "karachi",
