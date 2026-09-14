@@ -1,22 +1,22 @@
 [
   {
-    "slug": "meezan-bank-abbottabad-branch",
+    "slug": "meezan-bank-ayub-medical-complex-branch",
     "brand": "meezan-bank",
     "city": "abbottabad",
     "category": "banks",
-    "name": "Meezan Bank Abbottabad Branch",
-    "address": "Plot No. 843-846, Manshera Road, Abbottabad",
-    "phone": "992 3447013",
+    "name": "Meezan Bank Ayub Medical Complex Branch",
+    "address": "Ayub Medical Complex MirPur Branch Abbottabad",
+    "phone": "099 2414056",
     "contactNumber": null,
-    "whatsapp": "+9221111331331",
+    "whatsapp": "+92+9221111331331",
     "email": null,
-    "branchCode": "1501",
+    "branchCode": "1503",
     "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
     "features": [
-      "ATM"
+      "ATM Locker"
     ],
-    "lat": 34.185797,
-    "lng": 73.232245,
+    "lat": 34.208814,
+    "lng": 73.241407,
     "updated": "2026-09-14"
   },
   {
