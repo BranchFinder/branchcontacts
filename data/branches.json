@@ -1,5 +1,300 @@
 [
   {
+    "slug": "meezan-bank-jhang-road-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Jhang Road Branch",
+    "address": "Near Ayub Colony, Opposite Motor Market, Jhang Road Faisalabad.",
+    "phone": "041 2650854",
+    "contactNumber": "041 2650954",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0411",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility"
+    ],
+    "lat": 31.408003,
+    "lng": 73.053626,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-jail-road-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Jail Road Branch",
+    "address": "Jail Road, Faisalabad",
+    "phone": "041 8785157",
+    "contactNumber": null,
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0418",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility"
+    ],
+    "lat": 31.435739,
+    "lng": 73.079459,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-hajiabad-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Hajiabad Branch",
+    "address": "Main Sheikhupura Road Hajiabad Faisalabad",
+    "phone": "041 8846181",
+    "contactNumber": "041 8846187",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0421",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility"
+    ],
+    "lat": 31.450247,
+    "lng": 73.108167,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-gulberg-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Gulberg Branch",
+    "address": "Gulberg Colony, Main Bazar, Faisalabad.",
+    "phone": "041 2541611",
+    "contactNumber": "041 2541618",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0417",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility"
+    ],
+    "lat": 31.415716,
+    "lng": 73.059136,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-gole-cloth-katchery-bazar-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Gole Cloth Katchery Bazar Branch",
+    "address": "Rail Bazar, Tehsil City and District Faisalabad",
+    "phone": "041 2610373",
+    "contactNumber": "041 2610375",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0408",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM Locker facility"
+    ],
+    "lat": 31.418869,
+    "lng": 73.080578,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-ghulam-muhammad-abad-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Ghulam Muhammad Abad branch",
+    "address": "Alaf Sani Chowk Main Saddar Bazar, Ghulam Muhammad Abad, Faisalabad",
+    "phone": "041 2694381",
+    "contactNumber": "041 2694388",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0415",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility"
+    ],
+    "lat": 31.437628,
+    "lng": 73.049544,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-dijkot-road-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Dijkot Road Branch",
+    "address": "DIJKOT ROAD, ADJACENT TO GRAIN MARKET, FAISALABAD",
+    "phone": "041 2647766",
+    "contactNumber": "041 2416141",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0406",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility"
+    ],
+    "lat": 31.407193,
+    "lng": 73.073758,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-clock-tower-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Clock Tower Branch",
+    "address": "Karkhana Bazar, Faisalabad",
+    "phone": "041 2606085",
+    "contactNumber": "0412606089",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0404",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility",
+      "CDM"
+    ],
+    "lat": 31.417031,
+    "lng": 73.081498,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-civil-lines-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Civil Lines Branch",
+    "address": "Civil Lines, Bilal Road, Faisalabad",
+    "phone": "041 2603475",
+    "contactNumber": "041 2603471",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0414",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "locker facility",
+      "CDM"
+    ],
+    "lat": 31.433096,
+    "lng": 73.079131,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-circular-road-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Circular Road Branch",
+    "address": "Jinnah Market, Circular Road, Faisalabad.",
+    "phone": "041-2628267",
+    "contactNumber": "041-2628261",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0419",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "locker facility",
+      "CDM"
+    ],
+    "lat": 31.419788,
+    "lng": 73.083793,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-canal-road-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Canal Road Branch",
+    "address": "Amin Town Near Kashmir Bridge West Canal Road, Faisalabad",
+    "phone": "041 8505438",
+    "contactNumber": null,
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0416",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility"
+    ],
+    "lat": 31.440352,
+    "lng": 73.133176,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-bilal-gunj-market-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Bilal Gunj Market Branch",
+    "address": "Bilal Gunj Market Sargodha Road, Faisalabad",
+    "phone": "021111331331",
+    "contactNumber": null,
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0423",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM"
+    ],
+    "lat": 31.439345,
+    "lng": 73.090335,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-bhawana-bazar-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Bhawana Bazar Branch",
+    "address": "150-D, B V Main Bhowana Bazaar Faisalabad",
+    "phone": "041 263304",
+    "contactNumber": "041 263305",
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0482",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM",
+      "Locker facility",
+      "CDM"
+    ],
+    "lat": 31.419156,
+    "lng": 73.076644,
+    "updated": "2026-09-15"
+  },
+  {
+    "slug": "meezan-bank-bhaiwala-branch",
+    "brand": "meezan-bank",
+    "city": "faisalabad",
+    "category": "banks",
+    "name": "Meezan Bank Bhaiwala Branch",
+    "address": "Chak # 202 RB, Jhumra Road, Bhaiwala, Faisalabad.",
+    "phone": "021111331331",
+    "contactNumber": null,
+    "whatsapp": "+9221111331331",
+    "email": null,
+    "branchCode": "0443",
+    "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
+    "features": [
+      "ATM"
+    ],
+    "lat": 31.467598,
+    "lng": 73.130349,
+    "updated": "2026-09-15"
+  },
+  {
     "slug": "meezan-bank-shorkot-cantt-branch",
     "brand": "meezan-bank",
     "city": "shorkot",
@@ -45,11 +340,11 @@
     "city": "jaranwala",
     "category": "banks",
     "name": "meezan bank jaranwala branch",
-    "address": "hasan road jaranwala",
+    "address": "Hassan Road, Jaranwala",
     "phone": "111331331",
-    "contactNumber": "3256905789",
-    "whatsapp": "+923256905789",
-    "email": "info@meezanbank.com",
+    "contactNumber": "0325 6905789",
+    "whatsapp": "+9221111331331",
+    "email": null,
     "branchCode": "9842",
     "hours": "Mon–Fri 9:00–17:00, Sat 9:00–13:30",
     "features": [
@@ -57,7 +352,7 @@
     ],
     "lat": 31.335616,
     "lng": 73.419098,
-    "updated": "2026-09-14"
+    "updated": "2026-09-15"
   },
   {
     "slug": "clifton-branch",
